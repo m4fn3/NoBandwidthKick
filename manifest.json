@@ -1,0 +1,12 @@
+{
+   "name": "NoBandwidthKick",
+   "version": "1.0.0",
+   "description": "this plugin shut up bandwidth police that kicks you from a DM call when you are alone for 3 mins",
+   "authors": [
+      {
+         "name": "mafu",
+         "id": "519760564755365888"
+      }
+   ],
+   "color": "#4682b4"
+}
